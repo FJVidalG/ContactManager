@@ -1,0 +1,1 @@
+/home/fran/FlutterProjects/practica3_3_agenda_contactspage/build/app/intermediates/cxx/Debug/1e1842bv/obj/x86_64

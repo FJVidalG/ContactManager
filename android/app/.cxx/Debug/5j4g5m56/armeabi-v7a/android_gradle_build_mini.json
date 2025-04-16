@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/home/fran/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/fran/Android/Sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/home/fran/FlutterProjects/practica3_2_agenda_contactdetails/android/app/.cxx/Debug/5j4g5m56/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/fran/Android/Sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/home/fran/FlutterProjects/practica3_2_agenda_contactdetails/android/app/.cxx/Debug/5j4g5m56/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
