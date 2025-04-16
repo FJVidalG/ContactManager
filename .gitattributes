@@ -1,0 +1,13 @@
+# Ignorar carpetas de plataformas nativas
+android/** linguist-vendored
+ios/** linguist-vendored
+linux/** linguist-vendored
+windows/** linguist-vendored
+macos/** linguist-vendored
+
+# Ignorar archivos generados
+build/** linguist-vendored
+.dart_tool/** linguist-vendored
+
+# Opcional
+pubspec.lock linguist-generated
